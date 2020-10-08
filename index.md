@@ -1,6 +1,8 @@
 ## Data Science Projects
 
-A list of projects 
+# Chuck Norris Jokes 
+[Link](https://github.com/swecham/Swetha-Chamala.git)
+
 
 Hello World
 
@@ -27,7 +29,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/swecham/Swetha-Chamala.git) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
