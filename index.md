@@ -1,7 +1,7 @@
 ## Data Science Projects
 
-# Chuck Norris Jokes 
-[Link](https://github.com/swecham/Swetha-Chamala.git)
+# [Chuck Norris Jokes](https://github.com/swecham/Swetha-Chamala.git)
+[Link]
 
 
 Hello World
