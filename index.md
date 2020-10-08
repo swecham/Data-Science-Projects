@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Data Science Projects
+
+A list of projects 
 
 You can use the [editor on GitHub](https://github.com/swecham/Introduction-to-Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
